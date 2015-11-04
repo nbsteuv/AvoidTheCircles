@@ -6,8 +6,6 @@ body{
 		width:100%;
 	}
 
-	
-
 	.space{
 		background-color:#D4F4FC;
 		height:100vh;
@@ -78,6 +76,7 @@ body{
 	}
 
 	.resetbutton{
+		padding: 2vh;
 		background-color:#57DB48;
 		height:10vh;
 		width:10vw;
